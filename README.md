@@ -16,7 +16,7 @@ This notebook focuses on predicting bike-sharing demand in Seoul using various m
     Utilized one-hot encoding for the 'Seasons' column and dropped the original column.
     Mapped weekdays to numerical values.
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 
     Explored the distribution of bike rentals based on different factors, such as day of the week, month, hour, and season.
     Visualized the bike rental count per day of the week and season.
